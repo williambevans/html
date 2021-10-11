@@ -1,4 +1,5 @@
 body {
+    font-family: monaco,Consolas,Lucida Console,monospace;
     background-color: black;
     text-align: center;
     color: white;
@@ -15,4 +16,5 @@ svg {
 
 img{ 
     border-radius: 50px;
+    max-width: 100%;
 }
