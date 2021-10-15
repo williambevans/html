@@ -1,19 +1,20 @@
 body {
-  font-family: monaco, Consolas, Lucida Console, monospace;
-  background-color: black;
-  text-align: center;
-  color: white;
+    font-family: monaco,Consolas,Lucida Console,monospace;
+    background-color: #f8f8f8;
+    text-align: center;
+    color: black;
+
 }
 
 a {
-  color: white;
+    color: black;
+    font-size: .75rem;
 }
 
-svg {
-  filter: drop-shadow(8px 8px 6px gray);
+svg { 
+    filter: drop-shadow(8px 8px 6px gray)
 }
 
-img {
-  border-radius: 50px;
-  max-width: 100%;
+img{ 
+    border-radius: 50px;
 }
